@@ -107,24 +107,6 @@ $ python train.py --data coco.yaml --cfg yolov5s.yaml --weights '' --batch-size 
                                          yolov5m                                40
                                          yolov5l                                24
                                          yolov5x                                16
-```
-<img src="https://user-images.githubusercontent.com/26833433/90222759-949d8800-ddc1-11ea-9fa1-1c97eed2b963.png" width="900">
-
-
-## Citation
-
-[![DOI](https://zenodo.org/badge/264818686.svg)](https://zenodo.org/badge/latestdoi/264818686)
-
-
-## About Us
-
-Ultralytics is a U.S.-based particle physics and AI startup with over 6 years of expertise supporting government, academic and business clients. We offer a wide range of vision AI services, spanning from simple expert advice up to delivery of fully customized, end-to-end production solutions, including:
-- **Cloud-based AI** systems operating on **hundreds of HD video streams in realtime.**
-- **Edge AI** integrated into custom iOS and Android apps for realtime **30 FPS video inference.**
-- **Custom data training**, hyperparameter evolution, and model exportation to any destination.
-
-For business inquiries and professional support requests please visit us at https://www.ultralytics.com. 
-
 
 ## Contact
 
